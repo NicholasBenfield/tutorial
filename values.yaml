@@ -1,0 +1,4 @@
+image:
+  repository: "repo1.dso.mil/platform-one/big-bang/bigbang"
+  tag: 1.46.0
+  registry: repo1.dso.mil
